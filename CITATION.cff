@@ -6,6 +6,6 @@ authors:
   orcid:"0009-0008-1095-4402" #
 title: "KRR v2.1: A Deterministic Korean Romanization System"
 version: 2.1.0
-doi: 10.5281/zenodo.8475 #
+doi: 10.5281/zenodo.18080289 #
 date-released: 2025-12-29
 url: "https://github.com/r8dymade/KRR-v2.1"
