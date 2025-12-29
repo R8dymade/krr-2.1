@@ -38,3 +38,15 @@ KRR structurally separates particles.
 
 ## 4. Conclusion
 KRR v2.0 reduces the 11,172 Hangul syllables into a predictable, mathematically convertible ASCII set. It is the most efficient protocol for **AI Tokenization** and **Global Search Engines**.
+
+## 5. Copyright & LicenseNotice
+
+**Copyright © 2025 [R8dymade]**
+
+This project is licensed under the **Apache License, Version 2.0** (the "License").
+You may not use this file except in compliance with the License.
+
+> **Disclaimer of Warranty:**
+> Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+For the full license text, please refer to the `LICENSE` file in the repository.
