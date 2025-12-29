@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "JUN"
-  given-names: "JIHOON"
-  orcid:"0009-0008-1095-4402" #
+  - family-names: "JUN"
+    given-names: "JIHOON"
+    orcid: "https://orcid.org/0009-0008-1095-4402"
 title: "KRR v2.1: A Deterministic Korean Romanization System"
 version: 2.1.0
-doi: 10.5281/zenodo.18080289 #
+doi: "10.5281/zenodo.18080289"
 date-released: 2025-12-29
 url: "https://github.com/r8dymade/KRR-v2.1"
