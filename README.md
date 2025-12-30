@@ -1,10 +1,10 @@
 [![DOI](https://zenodo.org/badge/1124444957.svg)](https://doi.org/10.5281/zenodo.18080288)
-# KRR v2.0 (Korean Reversible Romanization) 🇰🇷
+# KRR (Korean Reversible Romanization) 🇰🇷
 
 > **"No Ambiguity. 100% Reversible. AI-Ready."**
 
 ## What is this?
-KRR v2.0 is a strictly logical romanization system for Hangul.
+KRR is a strictly logical romanization system for Hangul.
 It creates a **bijective (1-to-1) mapping** between Hangul characters and ASCII strings.
 
 - **For Humans:** It preserves the morphological meaning (e.g., `goog\bab`).
