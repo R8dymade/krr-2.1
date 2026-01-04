@@ -24,3 +24,38 @@ print(KRR.encode("한글"))
 
 print(KRR.decode("han\ge~l"))
 # Output: 한글
+```
+
+## How to install
+
+For now, the package is not yet available on pypi, but it can either be installed directly from github:
+
+```bash
+# Using https
+pip install git+https://github.com/R8dymade/krr-2.1.git
+# using ssh
+pip install git+ssh://git@github.com:R8dymade/krr-2.1.git
+```
+
+I can then be used just as above.
+
+Alternatively, for developers, with the repository cloned, install the path to the directory, normally or in editable mode will also make the package useable.
+
+```
+git clone <path to repository ssh/http>
+cd krr-2.1
+
+# normal install
+pip install .
+
+# or editable install to track changes
+pip install -e .
+```
+
+## Running tests
+
+The tests can be run with pytest installed by calling
+
+```
+pytest
+```
